@@ -14,4 +14,4 @@ Customizing R Studio<br>
 Understanding statistical concepts like the Law of Large Numbers and Normal distribution<br>
 Working with statistical, financial, and sports data<br>
 Practice file: <br>
-🔗 https://shorful-akib.github.io/R-Programming-A-Z-R-For-Data-Science-With-Real-Exercises-by-Kirill-Eremenko/R_A_Z.html 
+👉 🔗 https://shorful-akib.github.io/R-Programming-A-Z-R-For-Data-Science-With-Real-Exercises-by-Kirill-Eremenko/R_A_Z.html 
