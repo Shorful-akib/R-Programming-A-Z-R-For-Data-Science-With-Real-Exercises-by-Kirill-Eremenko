@@ -10,7 +10,7 @@ Understanding data types (integer, double, logical, character)<br>
 Using loops (while() and for())<br>
 Building and using matrices<br>
 Installing packages in R<br>
-Customizing R Studio<br>
+Customising R Studio<br>
 Understanding statistical concepts like the Law of Large Numbers and Normal distribution<br>
 Working with statistical, financial, and sports data<br>
 Practice file: <br>
